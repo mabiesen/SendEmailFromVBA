@@ -1,4 +1,4 @@
-# SendEmailFromVBA
+# Send Email From VBA
 
 Send email from VBA Example.  Weak encryption included.
 
